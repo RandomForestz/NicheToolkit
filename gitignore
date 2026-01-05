@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Test data (rasters can be large)
+test_data/*.tif
+test_data/*.img
+test_data/*.grd
+test_data/*.png
+
+# Keep folder structure
+!test_data/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# ArcGIS
+*.lock
+*.gdb/
