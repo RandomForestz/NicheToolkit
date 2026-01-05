@@ -76,10 +76,6 @@ Warren's I is a metric for quantifying niche overlap between two probability dis
 - ArcGIS Pro (with arcpy) OR
 - Python 3.9+ with rasterio
 
-## Development
-
-Contributions welcome! Please open an issue or submit a pull request.
-
 ## References
 
 Warren, D.L., Glor, R.E., & Turelli, M. (2008). Environmental niche equivalency versus conservatism: quantitative approaches to niche evolution. *Evolution*, 62(11), 2868-2883.
@@ -105,4 +101,5 @@ NicheToolkit - Open-Source Geospatial Analysis Tool
 - Engineered robust raster I/O with automatic CRS preservation and NoData handling
 - Deployed production-ready tool tested with real species distribution models
 - GitHub: github.com/RandomForestz/nichetoolkit
+
 
