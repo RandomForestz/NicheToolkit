@@ -87,19 +87,8 @@ Josh Carrell, GISP
 ## License
 
 MIT
-```
 
----
 
-## Add This to Your Resume
 
-**Under Projects or Selected Experience:**
-```
-NicheToolkit - Open-Source Geospatial Analysis Tool
-- Developed Python package implementing Warren's I niche overlap statistic for ecological analysis
-- Built ArcGIS Pro Python Toolbox with GUI for non-technical users
-- Engineered robust raster I/O with automatic CRS preservation and NoData handling
-- Deployed production-ready tool tested with real species distribution models
-- GitHub: github.com/RandomForestz/nichetoolkit
 
 
